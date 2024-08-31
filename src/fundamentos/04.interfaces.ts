@@ -46,8 +46,8 @@ const shirt: Shirt = {
 };
 
 /**
- * Propiedades de solo lectura
  * readonly
+ * Propiedades de solo lectura
  * No va permitir sobrescribir la propiedad
  */
 
