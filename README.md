@@ -32,5 +32,6 @@ rootDir: Define el directorio desde donde se compilarán y revisarán los archiv
 rootDir './src' : Desde donde compilar y revisar lso archivos
 
 ts-node
+npm i ts-node -D
 ts-node: Permite ejecutar archivos .ts sin necesidad de compilarlos previamente.
 npx ts-node <archivo.ts>

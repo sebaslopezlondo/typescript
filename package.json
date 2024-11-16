@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/sebaslopezlondo/typescript#readme",
   "dependencies": {
-    "npx": "^10.2.2",
-    "ts-node": "^10.9.2"
+    "npx": "^10.2.2"
   },
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
   }
 }
